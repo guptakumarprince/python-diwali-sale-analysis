@@ -1,0 +1,18 @@
+#######################Python project for diwali sale analysis##########################.
+OBJECTIVE- 1)Improve customer experiance by analyzing sale data.
+           2)Increase revenue.
+
+
+################ Conclusion #################################
+
+
+*Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
+
+
+###################### Project Learnings ###############################
+1- performed data cleaning and manupulation.
+2- performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn.
+3- improved customer experiance by indentifying potential customer across diffrent states,
+   occupation, gender and age groups.
+4- improved sales by indentifying most selling product catagories and products, which can
+   help to plan inventory and hence meet the demends.
